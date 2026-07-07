@@ -22,6 +22,7 @@ My solutions to **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. An
 - **Day 016:** [Coffee Machine (OOP)](./day016)
 - **Day 017:** [True False Quiz](./day017)
 - **Day 018:** [Hirst Painting](./day018)
+- **Day 019:** [Turtle Race](./day019)
 ---
 
 ⭐ More projects will be added as I progress through the course.
