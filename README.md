@@ -23,6 +23,8 @@ My solutions to **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. An
 - **Day 017:** [True False Quiz](./day017)
 - **Day 018:** [Hirst Painting](./day018)
 - **Day 019:** [Turtle Race](./day019)
+- **Day 020:** [Snake Game](./day020)
+- **Day 021:** [Snake Game](./day021)
 ---
 
 ⭐ More projects will be added as I progress through the course.
