@@ -1,6 +1,6 @@
 """
 This module contains Scoreboard class used in
-Project : Day 23 - Turtle Crossing
+Project : Day 23 - Turtle Crossing Game
 
 Standard Library Modules:
     - turtle
