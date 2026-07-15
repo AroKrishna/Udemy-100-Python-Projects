@@ -1,5 +1,5 @@
 """
-Project : Day 23 - Turtle Crossing
+Project : Day 23 - Turtle Crossing Game
 
 Standard Library Modules:
     - time
@@ -22,7 +22,7 @@ from border import Border
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.tracer(0)
-screen.title("Turtle Crossing")
+screen.title("Turtle Crossing Game")
 
 player = Player()
 scoreboard = Scoreboard()
