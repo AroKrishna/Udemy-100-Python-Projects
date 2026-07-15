@@ -26,7 +26,7 @@ My solutions to **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. An
 - **Day 020:** [Snake Game](./day020)
 - **Day 021:** [Snake Game](./day021)
 - **Day 022:** [Ping Pong Game](./day022)
-- **Day 023:** [Turtle Crossing](./day023)
+- **Day 023:** [Turtle Crossing Game](./day023)
 ---
 
 ⭐ More projects will be added as I progress through the course.
