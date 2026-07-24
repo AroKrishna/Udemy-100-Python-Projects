@@ -29,6 +29,7 @@ My solutions to **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. An
 - **Day 023:** [Turtle Crossing Game](./day023)
 - **Day 024:** [Mail Merge](./day024)
 - **Day 025:** [U.S States Game](./day025)
+- **Day 026:** [NATO Alphabet](./day026)
 ---
 
 ⭐ More projects will be added as I progress through the course.
